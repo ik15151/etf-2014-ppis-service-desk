@@ -1,6 +1,6 @@
 # **Tema:** Dizajn i implementacija Service Desk-a kroz implementaciju procesa: Incident Management, Request Fulfillment i Supplier Management na primjeru informacionog sistema bolnice
 
-**Oblast:** Praktikum - Poslovni informacioni sistemi (PPIS)
+**Oblast:** Poslovni informacioni sistemi (PIS)
 
 **Vrsta aplikacije:** Web
 
