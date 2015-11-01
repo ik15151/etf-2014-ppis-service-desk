@@ -1,8 +1,4 @@
-# etf-2014-ppis-service-desk
-
-**Tema:** Dizajn i implementacija Service Desk-a kroz implementaciju
-procesa: Incident Management, Request Fulfillment i Supplier
-Management na primjeru informacionog sistema bolnice
+# **Tema:** Dizajn i implementacija Service Desk-a kroz implementaciju procesa: Incident Management, Request Fulfillment i Supplier Management na primjeru informacionog sistema bolnice
 
 **Oblast:** Praktikum - Poslovni informacioni sistemi (PPIS)
 
@@ -14,8 +10,7 @@ Management na primjeru informacionog sistema bolnice
 
 **Godina:** 2014
 
-**Dokumentacija:** https://www.dropbox.com/s/maivh8b55tb6maf/PPIS.pdf?dl=0
-
+*Timski rad*
 
 ---
 
