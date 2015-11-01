@@ -1,4 +1,4 @@
-# **Tema:** Dizajn i implementacija Service Desk-a kroz implementaciju procesa: Incident Management, Request Fulfillment i Supplier Management na primjeru informacionog sistema bolnice
+# Dizajn i implementacija Service Desk-a kroz implementaciju procesa: Incident Management, Request Fulfillment i Supplier Management na primjeru informacionog sistema bolnice
 
 **Oblast:** Poslovni informacioni sistemi (PIS)
 
